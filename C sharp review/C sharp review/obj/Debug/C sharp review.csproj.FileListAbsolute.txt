@@ -1,0 +1,13 @@
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.exe.config
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.exe
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.pdb
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.csprojResolveAssemblyReference.cache
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.exe
+c:\users\huzaifa\documents\visual studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.pdb
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.exe.config
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.exe
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\bin\Debug\C sharp review.pdb
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.csprojAssemblyReference.cache
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.csproj.CoreCompileInputs.cache
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.exe
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Visual Studio 2015\Projects\C sharp review\C sharp review\obj\Debug\C sharp review.pdb
